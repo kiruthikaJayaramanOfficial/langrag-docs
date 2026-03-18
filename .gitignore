@@ -4,3 +4,5 @@ __pycache__/
 *.pyc
 data/raw/*.pdf
 .DS_Store
+data/faiss_index/
+data/README.md
